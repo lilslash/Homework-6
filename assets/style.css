@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #4935cb;
+}
+.card-header{
+    background-color: red;
+    color: red
+}
+.headline{
+    background-color: #4935cb;
+}
+h2{
+    text-decoration: underline;
+}
+.head2{
+    font-family: 'Mukta Vaani', sans-serif;
+}
+.jumbotron-fluid{
+    background-color: #4935cb;
+    margin: 0 solid #4935cb;
+    padding: 55px;
+}
+#app {
+    background-color: #4935cb;
+margin: 0;
+}
+.main-text{
+    font-family: 'Mukta Vaani', sans-serif;
+color: #fd209a;
+
+}
+.day{
+background-color: white;
+}
